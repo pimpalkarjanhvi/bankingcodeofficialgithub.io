@@ -50,7 +50,7 @@
             </div>
             <div class="navbar">
                 <ul>
-                    <li><a href="homepage.php">HOME</a></li>
+                    <li><a href="index.php">HOME</a></li>
                     <li class='active'><a href="history.php">TRANSACTION</a></li>
                     <li><a href="customers.php">CUSTOMER</a></li>
                     
