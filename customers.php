@@ -54,7 +54,7 @@
             </div>
             <div class="navbar">
                 <ul>
-                    <li><a href="homepage.php">HOME</a></li>
+                    <li><a href="index.php">HOME</a></li>
                     <li class='active'><a href="#">CUSTOMERS</a></li>
                     <li><a href="history.php">TRANSACTION</a></li>
                     
