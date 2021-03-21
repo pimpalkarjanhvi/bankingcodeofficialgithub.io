@@ -123,7 +123,7 @@ if(isset($_POST['submit']))
             </div>
             <div class="navbar">
                 <ul>
-                    <li><a href="homepage.php">HOME</a></li>
+                    <li><a href="index.php">HOME</a></li>
                     <li class='active'><a href="#">TRANSFER</a></li>
                     <li><a href="customers.php">CUSTOMERS</a></li>
                     <li><a href="history.php">TRANSACTION</a></li>
